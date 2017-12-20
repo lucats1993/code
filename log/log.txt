@@ -1,0 +1,6 @@
+2017-12-19 16:23:41,323 - main - INFO - delete D:\extract_contact\simple\2017-08-22-17h09m39s success!
+2017-12-19 16:23:41,325 - main - INFO - delete D:\extract_contact\simple\2017-09-14-12h42m21s success!
+2017-12-19 16:36:09,701 - main - WARNING - D:\extract_contact\simple\2017-09-14-12h42m21s\www.shigashakyo.jp_20170914111850.html--co_name--'utf8' codec can't decode bytes in position 164-165: unexpected end of data
+2017-12-19 16:36:27,348 - main - INFO - delete D:\extract_contact\simple\2017-08-22-17h09m39s success!
+2017-12-19 16:36:27,348 - main - INFO - delete D:\extract_contact\simple\2017-09-14-16h35m17s success!
+2017-12-19 16:36:27,349 - main - INFO - delete D:\extract_contact\simple\2017-09-14-12h42m21s success!
